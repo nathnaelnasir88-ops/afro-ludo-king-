@@ -1,0 +1,6 @@
+{
+  "name": "Royal Ludo 3D Arena",
+  "description": "Cross-platform 3D multiplayer Ludo game with private rooms, real-time WebSocket sync, WebRTC voice chat, customizable 3D board themes, and an integrated payment gateway for in-game currency and skins.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
